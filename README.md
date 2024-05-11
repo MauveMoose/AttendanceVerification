@@ -3,3 +3,5 @@ Python code for the QR-code based attendance verification app I worked in with a
 The app generates a QR code using a Python library.
 
 It has user reguistration and login forms, and stores user data in MySQL via a MySQL connection.
+
+.pyc files are part of the pycache.
